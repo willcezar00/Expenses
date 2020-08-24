@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expenses.Api", "Expenses\Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expenses.Usecases", "Expenses.Usecases\Expenses.Usecases.csproj", "{FAE1F5A0-BA43-4B7A-B02B-DB00D22AAE03}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expense.Tests", "Expense.Tests\Expense.Tests.csproj", "{C82B8FD7-CC96-47EE-8462-2CCAF8944F50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FAE1F5A0-BA43-4B7A-B02B-DB00D22AAE03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAE1F5A0-BA43-4B7A-B02B-DB00D22AAE03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAE1F5A0-BA43-4B7A-B02B-DB00D22AAE03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C82B8FD7-CC96-47EE-8462-2CCAF8944F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C82B8FD7-CC96-47EE-8462-2CCAF8944F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C82B8FD7-CC96-47EE-8462-2CCAF8944F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C82B8FD7-CC96-47EE-8462-2CCAF8944F50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
